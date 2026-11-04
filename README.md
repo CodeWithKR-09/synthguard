@@ -5,15 +5,9 @@
 [![Neural Storm 2026](https://img.shields.io/badge/Neural_Storm_2026-Hackathon_Submission-7c3aed?style=for-the-badge&logo=target)](https://github.com)
 [![Track 01](https://img.shields.io/badge/Track_01-Future_Tech-blue?style=for-the-badge)](https://github.com)
 [![Problem FT-02](https://img.shields.io/badge/Problem-FT--02-rose?style=for-the-badge)](https://github.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](LICENSE)
 
 <br/>
 
-**[  Live Interactive Demo Placeholder ](https://huggingface.co/spaces/your-username/synthguard)** &nbsp;|&nbsp; 
-**[  Video Walkthrough & Presentation Placeholder ](https://youtube.com/watch?v=your-demo-id)** &nbsp;|&nbsp; 
-**[  GitHub Repository ](https://github.com/your-username/synthguard)**
-
-<br/>
 
 *An end-to-end, production-ready AI forensics system designed to detect and explain synthetic image, video, and audio disinformation at scale.*
 
