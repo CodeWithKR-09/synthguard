@@ -1,4 +1,4 @@
-# 🛡️ SynthGuard — Multimodal Deepfake & Synthetic Media Forensics
+#  SynthGuard — Multimodal Deepfake & Synthetic Media Forensics
 
 <div align="center">
 
@@ -9,9 +9,9 @@
 
 <br/>
 
-**[ 🚀 Live Interactive Demo Placeholder ](https://huggingface.co/spaces/your-username/synthguard)** &nbsp;|&nbsp; 
-**[ 📹 Video Walkthrough & Presentation Placeholder ](https://youtube.com/watch?v=your-demo-id)** &nbsp;|&nbsp; 
-**[ 📦 GitHub Repository ](https://github.com/your-username/synthguard)**
+**[  Live Interactive Demo Placeholder ](https://huggingface.co/spaces/your-username/synthguard)** &nbsp;|&nbsp; 
+**[  Video Walkthrough & Presentation Placeholder ](https://youtube.com/watch?v=your-demo-id)** &nbsp;|&nbsp; 
+**[  GitHub Repository ](https://github.com/your-username/synthguard)**
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 📌 Executive Submission Overview
+##  Executive Submission Overview
 
 | Parameter | Details |
 | :--- | :--- |
@@ -35,7 +35,7 @@
 
 ---
 
-## 💡 Problem Description & Motivation
+##  Problem Description & Motivation
 
 Generative AI diffusion models, generative adversarial networks (GANs), and neural voice cloning tools (e.g., ElevenLabs, Sora, Flux, Midjourney) can now synthesize photorealistic human faces, replicated voices, and counterfeit events in seconds. 
 
@@ -124,7 +124,7 @@ SynthGuard is engineered as an **end-to-end, air-gapped forensics suite** compri
 
 ---
 
-## 📊 Model Accuracy & Performance Metrics
+##  Model Accuracy & Performance Metrics
 
 > **Judging Tip Focus:** Benchmarked under real-world local CPU conditions (Intel Core i5/i7 8-thread allocation, 16GB RAM) to prove true edge viability.
 
@@ -142,7 +142,7 @@ SynthGuard is engineered as an **end-to-end, air-gapped forensics suite** compri
 
 ---
 
-## 📸 Screenshots & Working Demo
+##  Screenshots & Working Demo
 
 ### 1. Ingestion Console & Test Preset Matrix
 *Drag-and-drop workspace supporting `.png`, `.jpg`, `.mp4`, `.webm`, and `.wav` with built-in RFC 9110 exception triggers (413, 415, 504).*
@@ -172,7 +172,7 @@ SynthGuard is engineered as an **end-to-end, air-gapped forensics suite** compri
 
 ---
 
-## 🛠️ Tech Stack & Libraries
+##  Tech Stack & Libraries
 
 ### Frontend Architecture
 - **Framework:** Next.js 14 (App Router)
@@ -260,7 +260,7 @@ http://localhost:3000
 
 ---
 
-## 🧪 Automated Verification & Testing
+##  Automated Verification & Testing
 
 SynthGuard includes built-in test suites validating media normalization, Grad-CAM base64 encoding, and endpoint contracts:
 
@@ -271,7 +271,7 @@ python -c "from backend.utils.grad_cam import to_base64_data_uri; assert to_base
 
 ---
 
-## 🤖 AI Tools Used & Hackathon Compliance
+##  AI Tools Used & Hackathon Compliance
 
 In compliance with Rule #04 of the Neural Storm 2026 Submission Guidelines, the following AI tools were utilized during development:
 
@@ -280,7 +280,7 @@ In compliance with Rule #04 of the Neural Storm 2026 Submission Guidelines, the 
 
 ---
 
-## ⚖️ Responsible AI & Sensitive Data Handling Disclaimer
+##  Responsible AI & Sensitive Data Handling Disclaimer
 
 > **IMPORTANT PRIVACY & FORENSIC NOTICE**
 > 
@@ -292,8 +292,8 @@ In compliance with Rule #04 of the Neural Storm 2026 Submission Guidelines, the 
 
 <div align="center">
 
-**Developed with 💙 by Kamalesh Ramu S V (HackArena) for Neural Storm 2026**
+**Developed by Kamalesh Ramu S V (HackArena) for Neural Storm 2026**
 
-*Build AI that matters. 48 hours. One idea at a time.*
+*Build that matters. 48 hours. One idea at a time.*
 
 </div>
