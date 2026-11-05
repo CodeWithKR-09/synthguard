@@ -227,7 +227,7 @@ python -m venv venv
 pip install -r requirements.txt
 
 # Start the FastAPI engine
-uvicorn main:app --reload --host 127.0.0.1 --port 8000
+uvicorn main:app --reload --port 8000
 ```
 > The engine will pre-allocate models to RAM and display: `Models Online. Application startup complete.`
 
