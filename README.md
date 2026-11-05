@@ -157,22 +157,12 @@ We can adjust the heatmap overlay to identify the synthetic visuals in overlay-t
 
 ![Heatmap Visualisaion with Results](/assets/screenshots/sample-result.PNG)
 
-| Side-by-Side Raw Frame vs. Heatmap | Interactive Heatmap Overlay Mode |
-| :---: | :---: |
-| `[ Placeholder: Raw Ingest Frame vs. Grad-CAM JET Attention Map ]` | `[ Placeholder: Dual-Layer Alpha Blended Heatmap Overlay ]` |
-
 ---
 
 ### 4. Loading Screen & Terminal Logs of Process 
 *Skeleton loading with backend processing with terminal log.*
 
 ![Terminal Logs in Loading Screen](/assets/screenshots/loding-screen.PNG)
-
----
-```markdown
-<!-- DEMO GIF PLACEHOLDER -->
-![SynthGuard End-to-End Forensic Demo GIF](https://via.placeholder.com/1200x600/0f172a/38bdf8?text=SynthGuard+End-to-End+Interactive+Demo+GIF)
-```
 
 ---
 
