@@ -49,7 +49,7 @@ SynthGuard is engineered as an **end-to-end, air-gapped forensics suite** compri
 ```
                     ┌────────────────────────────────────────────────────────┐
                     │               SynthGuard Media Ingestion               │
-                    │         (.jpg, .png, .mp4, .webm, .wav <= 25MB)        │
+                    │         (.jpg, .png, .mp4, .webm, .wav <= 100MB)       │
                     └───────────────────────────┬────────────────────────────┘
                                                 │
                                   ┌─────────────┴─────────────┐
@@ -153,12 +153,22 @@ SynthGuard is engineered as an **end-to-end, air-gapped forensics suite** compri
 ---
 
 ### 3. Spatial Attention & Grad-CAM Heatmap Visualization
-*(Placeholders below for additional live evaluation recordings)*
+We can adjust the heatmap overlay to identify the synthetic visuals in overlay-tab.*
+
+![Heatmap Visualisaion with Results](/assets/screenshots/sample-result.PNG)
 
 | Side-by-Side Raw Frame vs. Heatmap | Interactive Heatmap Overlay Mode |
 | :---: | :---: |
 | `[ Placeholder: Raw Ingest Frame vs. Grad-CAM JET Attention Map ]` | `[ Placeholder: Dual-Layer Alpha Blended Heatmap Overlay ]` |
 
+---
+
+### 4. Loading Screen & Terminal Logs of Process 
+*Skeleton loading with backend processing with terminal log.*
+
+![Terminal Logs in Loading Screen](/assets/screenshots/loding-screen.PNG)
+
+---
 ```markdown
 <!-- DEMO GIF PLACEHOLDER -->
 ![SynthGuard End-to-End Forensic Demo GIF](https://via.placeholder.com/1200x600/0f172a/38bdf8?text=SynthGuard+End-to-End+Interactive+Demo+GIF)
@@ -188,7 +198,7 @@ SynthGuard is engineered as an **end-to-end, air-gapped forensics suite** compri
 
 ---
 
-## 💻 Local Setup & Installation Guide
+## Local Setup & Installation Guide
 
 Follow these steps to spin up the entire end-to-end working MVP on your local machine.
 
@@ -286,7 +296,7 @@ In compliance with Rule #04 of the Neural Storm 2026 Submission Guidelines, the 
 
 <div align="center">
 
-**Developed by Kamalesh Ramu S V (HackArena) for Neural Storm 2026**
+**Developed by Kamalesh Ramu S V (HackArena) solo participant for Neural Storm 2026**
 
 *Build that matters. 48 hours. One idea at a time.*
 
